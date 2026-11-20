@@ -1,0 +1,11 @@
+[project]
+name = "blinkit-sales-analysis-dashboard"
+version = "1.0.0"
+description = "Blinkit Sales Analysis Dashboard — Python, SQLite, Flask & Plotly"
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.0.0",
+]
+
+[tool.vercel]
+entrypoint = "api/index.py"
