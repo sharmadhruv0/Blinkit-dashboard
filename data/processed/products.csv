@@ -1,0 +1,1554 @@
+item_identifier,item_type,item_fat_content,item_weight
+DRA10,Soft Drinks,Regular,11.46
+DRA21,Soft Drinks,Low Fat,16.44
+DRA32,Soft Drinks,Low Fat,11.2
+DRA48,Soft Drinks,Low Fat,11.9
+DRA75,Soft Drinks,Regular,14.84
+DRA77,Soft Drinks,Regular,12.45
+DRA82,Soft Drinks,Low Fat,11.04
+DRA93,Hard Drinks,Low Fat,11.12
+DRB35,Soft Drinks,Low Fat,13.52
+DRB59,Soft Drinks,Low Fat,15.2
+DRB69,Soft Drinks,Low Fat,9.03
+DRB78,Soft Drinks,Regular,11.98
+DRB87,Hard Drinks,Regular,17.21
+DRB96,Soft Drinks,Low Fat,13.7
+DRC43,Soft Drinks,Low Fat,16.8
+DRC46,Soft Drinks,Regular,10.56
+DRC49,Hard Drinks,Regular,10.33
+DRC51,Hard Drinks,Low Fat,14.64
+DRC76,Hard Drinks,Low Fat,7.9
+DRD33,Soft Drinks,Regular,8.68
+DRD60,Soft Drinks,Low Fat,8.0
+DRD84,Hard Drinks,Low Fat,9.41
+DRE27,Soft Drinks,Low Fat,7.56
+DRE94,Hard Drinks,Low Fat,11.39
+DRF13,Hard Drinks,Regular,5.25
+DRF18,Soft Drinks,Low Fat,14.06
+DRF20,Soft Drinks,Regular,12.69
+DRF22,Soft Drinks,Low Fat,11.67
+DRF28,Soft Drinks,Regular,12.09
+DRF59,Soft Drinks,Low Fat,7.78
+DRG25,Hard Drinks,Low Fat,11.09
+DRG26,Soft Drinks,Low Fat,9.46
+DRG35,Soft Drinks,Low Fat,10.12
+DRG44,Soft Drinks,Low Fat,10.46
+DRG48,Soft Drinks,Regular,12.86
+DRG76,Soft Drinks,Regular,10.6
+DRG78,Soft Drinks,Low Fat,15.56
+DRG96,Soft Drinks,Regular,10.83
+DRH10,Soft Drinks,Regular,11.72
+DRH23,Soft Drinks,Low Fat,11.29
+DRH68,Soft Drinks,Low Fat,12.32
+DRH72,Hard Drinks,Regular,16.65
+DRH80,Soft Drinks,Low Fat,10.64
+DRI41,Hard Drinks,Low Fat,10.72
+DRI89,Hard Drinks,Regular,15.93
+DRJ55,Hard Drinks,Low Fat,11.72
+DRJ71,Soft Drinks,Low Fat,8.14
+DRJ84,Soft Drinks,Low Fat,9.75
+DRK26,Hard Drinks,Low Fat,14.25
+DRK39,Soft Drinks,Low Fat,7.44
+DRK73,Hard Drinks,Regular,14.62
+DRK86,Soft Drinks,Low Fat,5.65
+DRK94,Soft Drinks,Low Fat,5.82
+DRK96,Soft Drinks,Regular,10.72
+DRL34,Hard Drinks,Low Fat,10.68
+DRL37,Soft Drinks,Low Fat,10.94
+DRL40,Soft Drinks,Regular,12.74
+DRL76,Hard Drinks,Regular,8.85
+DRL86,Soft Drinks,Low Fat,18.57
+DRM48,Hard Drinks,Regular,11.81
+DRM50,Soft Drinks,Low Fat,12.72
+DRM84,Soft Drinks,Low Fat,14.26
+DRN20,Soft Drinks,Regular,9.88
+DRN28,Soft Drinks,Regular,15.01
+DRO18,Soft Drinks,Low Fat,15.13
+DRO19,Soft Drinks,Regular,8.58
+DRO21,Soft Drinks,Regular,9.2
+DRO47,Hard Drinks,Regular,11.42
+DRO48,Hard Drinks,Regular,14.77
+DRO64,Soft Drinks,Regular,18.88
+DRO65,Soft Drinks,Low Fat,11.47
+DRO70,Hard Drinks,Low Fat,17.39
+DRO81,Hard Drinks,Low Fat,4.5
+DRO89,Hard Drinks,Low Fat,12.91
+DRP28,Soft Drinks,Regular,12.71
+DRP32,Hard Drinks,Low Fat,12.18
+DRP37,Soft Drinks,Low Fat,7.78
+DRP83,Hard Drinks,Low Fat,6.63
+DRP89,Soft Drinks,Low Fat,8.64
+DRP97,Hard Drinks,Low Fat,17.66
+DRQ32,Soft Drinks,Low Fat,13.66
+DRQ43,Hard Drinks,Regular,8.94
+DRQ49,Hard Drinks,Regular,13.44
+DRQ80,Soft Drinks,Low Fat,15.1
+DRQ93,Soft Drinks,Low Fat,9.48
+DRR72,Hard Drinks,Low Fat,6.29
+DRR73,Hard Drinks,Regular,10.19
+DRR90,Soft Drinks,Regular,17.6
+DRS16,Soft Drinks,Regular,9.33
+DRS18,Soft Drinks,Regular,14.86
+DRS78,Hard Drinks,Low Fat,10.24
+DRS80,Soft Drinks,Low Fat,10.12
+DRS97,Hard Drinks,Low Fat,9.4
+DRT78,Hard Drinks,Low Fat,10.46
+DRT80,Soft Drinks,Regular,12.95
+DRU22,Soft Drinks,Regular,7.45
+DRU55,Soft Drinks,Regular,11.86
+DRU90,Soft Drinks,Low Fat,8.99
+DRU96,Soft Drinks,Low Fat,4.59
+DRV17,Soft Drinks,Regular,18.5
+DRV39,Hard Drinks,Regular,7.94
+DRW26,Hard Drinks,Low Fat,11.9
+DRW47,Soft Drinks,Low Fat,9.99
+DRX17,Hard Drinks,Low Fat,10.06
+DRX23,Soft Drinks,Regular,11.94
+DRX29,Hard Drinks,Low Fat,7.95
+DRX31,Soft Drinks,Low Fat,5.7
+DRX53,Soft Drinks,Low Fat,11.13
+DRX60,Soft Drinks,Regular,18.15
+DRX68,Hard Drinks,Regular,12.09
+DRX77,Hard Drinks,Regular,12.87
+DRX90,Soft Drinks,Regular,11.9
+DRX91,Hard Drinks,Low Fat,8.3
+DRX93,Soft Drinks,Low Fat,8.78
+DRY20,Hard Drinks,Regular,10.75
+DRY21,Soft Drinks,Low Fat,9.9
+DRY23,Hard Drinks,Regular,11.85
+DRY62,Soft Drinks,Low Fat,16.43
+DRY68,Soft Drinks,Regular,13.91
+DRY74,Soft Drinks,Regular,11.54
+DRY85,Soft Drinks,Low Fat,9.99
+DRZ23,Soft Drinks,Regular,15.84
+DRZ70,Hard Drinks,Low Fat,10.95
+DRZ76,Soft Drinks,Low Fat,13.38
+FDA13,Baking Goods,Low Fat,11.05
+FDA14,Meat,Regular,10.63
+FDA15,Baking Goods,Low Fat,16.69
+FDA16,Fruits and Vegetables,Regular,13.27
+FDA17,Fruits and Vegetables,Regular,13.83
+FDA20,Baking Goods,Low Fat,11.59
+FDA27,Snack Foods,Regular,11.52
+FDA31,Starchy Foods,Low Fat,7.55
+FDA33,Frozen Foods,Low Fat,16.79
+FDA34,Snack Foods,Low Fat,10.92
+FDA35,Breads,Low Fat,10.6
+FDA36,Seafood,Low Fat,18.05
+FDA41,Dairy,Low Fat,9.89
+FDA44,Breads,Regular,7.66
+FDA45,Snack Foods,Low Fat,9.4
+FDA48,Frozen Foods,Low Fat,13.77
+FDA49,Meat,Regular,12.08
+FDA51,Starchy Foods,Low Fat,9.77
+FDA52,Canned,Regular,13.98
+FDA55,Breads,Regular,11.8
+FDA57,Breads,Regular,8.42
+FDA58,Canned,Regular,10.45
+FDA59,Snack Foods,Regular,10.36
+FDA60,Dairy,Regular,17.28
+FDA62,Canned,Low Fat,11.27
+FDA65,Baking Goods,Low Fat,9.45
+FDA66,Frozen Foods,Regular,12.7
+FDA71,Fruits and Vegetables,Regular,15.33
+FDA73,Dairy,Low Fat,10.85
+FDA74,Frozen Foods,Regular,19.75
+FDA77,Frozen Foods,Low Fat,16.56
+FDA79,Breads,Regular,8.26
+FDA84,Dairy,Low Fat,14.18
+FDA85,Dairy,Low Fat,9.19
+FDA86,Fruits and Vegetables,Low Fat,19.77
+FDA89,Baking Goods,Low Fat,14.09
+FDA90,Baking Goods,Low Fat,6.11
+FDA93,Fruits and Vegetables,Regular,17.25
+FDA95,Frozen Foods,Regular,9.49
+FDA96,Canned,Regular,5.99
+FDA98,Fruits and Vegetables,Low Fat,9.97
+FDB13,Frozen Foods,Low Fat,10.92
+FDB16,Breads,Low Fat,9.51
+FDB17,Breads,Low Fat,10.97
+FDB21,Dairy,Regular,16.28
+FDB22,Fruits and Vegetables,Regular,14.18
+FDB25,Fruits and Vegetables,Regular,13.55
+FDB26,Meat,Low Fat,9.81
+FDB30,Baking Goods,Regular,8.9
+FDB31,Canned,Regular,11.99
+FDB36,Dairy,Low Fat,10.06
+FDB39,Frozen Foods,Regular,10.95
+FDB41,Frozen Foods,Low Fat,15.19
+FDB43,Snack Foods,Regular,16.19
+FDB44,Fruits and Vegetables,Regular,9.85
+FDB48,Frozen Foods,Regular,9.26
+FDB50,Fruits and Vegetables,Low Fat,12.44
+FDB51,Canned,Low Fat,9.66
+FDB53,Snack Foods,Regular,9.93
+FDB54,Fruits and Vegetables,Low Fat,11.46
+FDB55,Snack Foods,Low Fat,15.94
+FDB57,Canned,Regular,16.08
+FDB58,Canned,Low Fat,8.19
+FDB61,Frozen Foods,Low Fat,4.5
+FDB64,Snack Foods,Regular,12.44
+FDB71,Fruits and Vegetables,Regular,12.98
+FDB72,Fruits and Vegetables,Low Fat,10.78
+FDB73,Snack Foods,Low Fat,12.72
+FDB75,Fruits and Vegetables,Low Fat,12.05
+FDB76,Canned,Regular,14.3
+FDB77,Frozen Foods,Low Fat,12.64
+FDB78,Fruits and Vegetables,Low Fat,13.09
+FDB81,Fruits and Vegetables,Low Fat,15.17
+FDB84,Fruits and Vegetables,Low Fat,17.21
+FDB85,Canned,Regular,7.46
+FDB89,Breads,Low Fat,9.9
+FDB90,Meat,Regular,12.94
+FDB95,Frozen Foods,Regular,12.5
+FDB96,Fruits and Vegetables,Low Fat,12.92
+FDC10,Fruits and Vegetables,Regular,15.1
+FDC12,Snack Foods,Low Fat,11.74
+FDC15,Canned,Low Fat,15.05
+FDC16,Fruits and Vegetables,Low Fat,12.48
+FDC17,Snack Foods,Regular,11.94
+FDC20,Snack Foods,Regular,16.54
+FDC21,Dairy,Regular,13.04
+FDC25,Breads,Regular,9.58
+FDC26,Frozen Foods,Low Fat,20.04
+FDC27,Frozen Foods,Low Fat,11.14
+FDC29,Frozen Foods,Regular,13.08
+FDC31,Breakfast,Low Fat,11.04
+FDC34,Baking Goods,Low Fat,11.94
+FDC36,Frozen Foods,Regular,8.53
+FDC40,Frozen Foods,Low Fat,12.87
+FDC41,Frozen Foods,Regular,9.36
+FDC42,Snack Foods,Low Fat,11.86
+FDC43,Fruits and Vegetables,Low Fat,13.38
+FDC45,Frozen Foods,Low Fat,14.01
+FDC46,Canned,Low Fat,15.4
+FDC50,Frozen Foods,Low Fat,9.66
+FDC52,Snack Foods,Low Fat,13.3
+FDC53,Meat,Regular,14.5
+FDC56,Dairy,Low Fat,12.74
+FDC59,Fruits and Vegetables,Low Fat,20.49
+FDC61,Breads,Regular,9.77
+FDC63,Snack Foods,Regular,14.35
+FDC66,Fruits and Vegetables,Regular,13.81
+FDC67,Snack Foods,Regular,13.77
+FDC70,Fruits and Vegetables,Low Fat,9.97
+FDC74,Starchy Foods,Low Fat,13.73
+FDC77,Frozen Foods,Low Fat,14.91
+FDC78,Frozen Foods,Low Fat,11.28
+FDC81,Baking Goods,Regular,9.8
+FDC82,Fruits and Vegetables,Low Fat,13.2
+FDC84,Fruits and Vegetables,Low Fat,13.89
+FDC85,Canned,Regular,12.19
+FDC86,Fruits and Vegetables,Regular,20.49
+FDC88,Fruits and Vegetables,Low Fat,14.35
+FDC90,Fruits and Vegetables,Low Fat,7.95
+FDD10,Baking Goods,Low Fat,11.75
+FDD11,Dairy,Low Fat,10.13
+FDD12,Fruits and Vegetables,Regular,9.72
+FDD14,Dairy,Low Fat,14.5
+FDD15,Frozen Foods,Low Fat,13.29
+FDD16,Dairy,Low Fat,16.72
+FDD17,Snack Foods,Low Fat,15.4
+FDD19,Dairy,Low Fat,15.0
+FDD21,Snack Foods,Regular,11.17
+FDD22,Fruits and Vegetables,Low Fat,10.67
+FDD24,Fruits and Vegetables,Regular,13.96
+FDD26,Frozen Foods,Low Fat,17.16
+FDD27,Fruits and Vegetables,Regular,16.15
+FDD28,Baking Goods,Low Fat,11.18
+FDD29,Meat,Regular,6.86
+FDD32,Snack Foods,Regular,6.84
+FDD34,Fruits and Vegetables,Low Fat,8.87
+FDD35,Meat,Low Fat,12.04
+FDD38,Canned,Regular,15.43
+FDD39,Fruits and Vegetables,Regular,7.67
+FDD40,Dairy,Regular,12.88
+FDD42,Canned,Low Fat,17.44
+FDD45,Fruits and Vegetables,Regular,7.05
+FDD48,Snack Foods,Regular,13.68
+FDD50,Snack Foods,Regular,14.46
+FDD54,Snack Foods,Regular,16.84
+FDD55,Frozen Foods,Low Fat,12.7
+FDD58,Snack Foods,Regular,15.62
+FDD62,Snack Foods,Regular,9.48
+FDD64,Meat,Regular,10.83
+FDD66,Snack Foods,Low Fat,12.96
+FDD69,Dairy,Low Fat,9.27
+FDD70,Fruits and Vegetables,Low Fat,13.78
+FDD73,Dairy,Low Fat,13.47
+FDD76,Snack Foods,Regular,18.14
+FDD78,Breads,Regular,12.82
+FDD82,Frozen Foods,Low Fat,14.09
+FDD84,Fruits and Vegetables,Regular,14.6
+FDD86,Baking Goods,Low Fat,12.17
+FDD87,Snack Foods,Regular,13.11
+FDD88,Fruits and Vegetables,Regular,7.73
+FDD89,Fruits and Vegetables,Low Fat,7.67
+FDD94,Canned,Low Fat,12.36
+FDD96,Fruits and Vegetables,Low Fat,13.8
+FDD98,Dairy,Low Fat,12.62
+FDE11,Fruits and Vegetables,Low Fat,17.18
+FDE16,Seafood,Low Fat,14.15
+FDE19,Snack Foods,Regular,13.02
+FDE20,Snack Foods,Regular,13.18
+FDE22,Snack Foods,Low Fat,11.48
+FDE24,Dairy,Low Fat,15.23
+FDE25,Fruits and Vegetables,Regular,14.14
+FDE29,Snack Foods,Low Fat,7.78
+FDE31,Fruits and Vegetables,Regular,14.14
+FDE33,Canned,Low Fat,15.52
+FDE36,Snack Foods,Low Fat,8.17
+FDE38,Baking Goods,Low Fat,9.48
+FDE40,Frozen Foods,Low Fat,20.31
+FDE42,Meat,Low Fat,17.35
+FDE43,Frozen Foods,Regular,12.24
+FDE47,Snack Foods,Regular,7.42
+FDE48,Meat,Low Fat,15.89
+FDE49,Breakfast,Low Fat,12.31
+FDE51,Snack Foods,Regular,10.28
+FDE56,Snack Foods,Regular,12.54
+FDE59,Snack Foods,Regular,10.64
+FDE62,Canned,Low Fat,10.92
+FDE63,Fruits and Vegetables,Low Fat,13.38
+FDE64,Baking Goods,Low Fat,10.4
+FDE67,Fruits and Vegetables,Low Fat,13.49
+FDE70,Breads,Regular,18.57
+FDE71,Canned,Low Fat,10.94
+FDE73,Snack Foods,Regular,16.58
+FDE74,Fruits and Vegetables,Low Fat,10.92
+FDE75,Dairy,Regular,12.98
+FDE76,Frozen Foods,Regular,9.38
+FDE77,Snack Foods,Regular,13.21
+FDE80,Baking Goods,Low Fat,9.33
+FDE81,Frozen Foods,Low Fat,11.46
+FDE85,Fruits and Vegetables,Low Fat,14.22
+FDE88,Canned,Low Fat,10.46
+FDE91,Fruits and Vegetables,Regular,14.85
+FDE92,Dairy,Low Fat,10.68
+FDE94,Snack Foods,Regular,13.52
+FDE95,Canned,Low Fat,14.84
+FDE96,Breads,Low Fat,9.84
+FDF12,Fruits and Vegetables,Low Fat,15.48
+FDF13,Canned,Regular,14.93
+FDF14,Snack Foods,Regular,13.26
+FDF16,Fruits and Vegetables,Regular,13.29
+FDF17,Dairy,Low Fat,9.59
+FDF22,Baking Goods,Low Fat,6.54
+FDF23,Fruits and Vegetables,Low Fat,13.39
+FDF24,Snack Foods,Low Fat,15.06
+FDF25,Fruits and Vegetables,Low Fat,11.19
+FDF26,Breads,Low Fat,9.63
+FDF27,Frozen Foods,Regular,16.2
+FDF28,Dairy,Low Fat,14.86
+FDF30,Snack Foods,Low Fat,15.79
+FDF31,Snack Foods,Regular,11.41
+FDF32,Snack Foods,Regular,14.16
+FDF36,Frozen Foods,Low Fat,17.97
+FDF37,Frozen Foods,Low Fat,15.62
+FDF39,Dairy,Regular,9.98
+FDF44,Fruits and Vegetables,Low Fat,15.56
+FDF48,Fruits and Vegetables,Regular,14.07
+FDF49,Baking Goods,Regular,13.44
+FDF52,Fruits and Vegetables,Low Fat,13.09
+FDF55,Breakfast,Regular,15.09
+FDF58,Snack Foods,Low Fat,17.98
+FDF59,Baking Goods,Regular,5.11
+FDF60,Frozen Foods,Low Fat,9.25
+FDF62,Fruits and Vegetables,Regular,17.14
+FDF63,Canned,Low Fat,12.48
+FDF65,Frozen Foods,Low Fat,13.04
+FDF67,Frozen Foods,Low Fat,17.14
+FDF71,Snack Foods,Low Fat,15.16
+FDF73,Baking Goods,Regular,6.11
+FDF75,Baking Goods,Low Fat,8.96
+FDF80,Frozen Foods,Regular,13.32
+FDF83,Canned,Regular,10.28
+FDF85,Frozen Foods,Low Fat,10.5
+FDF88,Baking Goods,Low Fat,7.83
+FDF90,Frozen Foods,Regular,13.91
+FDF91,Dairy,Regular,9.27
+FDF98,Breads,Low Fat,9.2
+FDG13,Snack Foods,Regular,14.2
+FDG14,Breads,Regular,8.26
+FDG17,Frozen Foods,Low Fat,12.83
+FDG18,Snack Foods,Regular,9.67
+FDG24,Baking Goods,Regular,7.82
+FDG27,Breakfast,Regular,9.68
+FDG28,Starchy Foods,Low Fat,15.0
+FDG29,Fruits and Vegetables,Regular,9.83
+FDG30,Snack Foods,Low Fat,13.35
+FDG34,Canned,Low Fat,18.75
+FDG35,Breads,Regular,10.84
+FDG37,Dairy,Regular,16.33
+FDG39,Frozen Foods,Regular,8.12
+FDG40,Breakfast,Regular,14.13
+FDG42,Canned,Low Fat,13.28
+FDG43,Dairy,Regular,10.71
+FDG44,Dairy,Low Fat,19.77
+FDG45,Starchy Foods,Low Fat,13.4
+FDG48,Snack Foods,Regular,16.12
+FDG49,Snack Foods,Low Fat,11.19
+FDG50,Dairy,Regular,13.33
+FDG51,Canned,Low Fat,15.62
+FDG52,Frozen Foods,Low Fat,5.82
+FDG53,Snack Foods,Low Fat,8.51
+FDG55,Snack Foods,Regular,12.18
+FDG56,Fruits and Vegetables,Low Fat,14.68
+FDG57,Baking Goods,Low Fat,4.5
+FDG59,Fruits and Vegetables,Regular,14.47
+FDG60,Snack Foods,Low Fat,13.74
+FDG63,Fruits and Vegetables,Low Fat,14.61
+FDG64,Fruits and Vegetables,Regular,14.34
+FDG66,Snack Foods,Regular,14.45
+FDG69,Snack Foods,Low Fat,9.64
+FDG70,Frozen Foods,Low Fat,8.62
+FDG71,Baking Goods,Low Fat,8.57
+FDG72,Meat,Low Fat,7.13
+FDG73,Baking Goods,Regular,16.33
+FDG75,Fruits and Vegetables,Regular,13.65
+FDG76,Frozen Foods,Low Fat,12.75
+FDG78,Fruits and Vegetables,Low Fat,12.57
+FDG83,Canned,Low Fat,15.29
+FDG90,Dairy,Low Fat,11.55
+FDG91,Frozen Foods,Low Fat,8.6
+FDG96,Starchy Foods,Low Fat,14.95
+FDH10,Fruits and Vegetables,Low Fat,15.0
+FDH11,Breads,Low Fat,12.3
+FDH15,Canned,Regular,5.82
+FDH20,Snack Foods,Low Fat,13.3
+FDH22,Snack Foods,Regular,14.43
+FDH23,Baking Goods,Regular,13.39
+FDH27,Canned,Regular,17.96
+FDH30,Dairy,Low Fat,4.5
+FDH31,Meat,Regular,14.79
+FDH32,Baking Goods,Regular,12.7
+FDH33,Baking Goods,Low Fat,4.5
+FDH40,Frozen Foods,Low Fat,6.56
+FDH41,Fruits and Vegetables,Low Fat,11.43
+FDH43,Baking Goods,Low Fat,12.8
+FDH44,Baking Goods,Low Fat,11.27
+FDH45,Baking Goods,Low Fat,13.28
+FDH46,Dairy,Low Fat,15.2
+FDH52,Dairy,Regular,15.29
+FDH56,Breads,Regular,12.96
+FDH57,Frozen Foods,Low Fat,10.07
+FDH59,Dairy,Low Fat,12.08
+FDH60,Frozen Foods,Low Fat,13.1
+FDH62,Canned,Low Fat,15.44
+FDH63,Fruits and Vegetables,Low Fat,12.2
+FDH65,Snack Foods,Low Fat,11.19
+FDH66,Canned,Low Fat,19.29
+FDH68,Dairy,Low Fat,12.34
+FDH71,Canned,Regular,19.07
+FDH72,Dairy,Low Fat,19.52
+FDH73,Dairy,Regular,13.32
+FDH76,Snack Foods,Low Fat,11.64
+FDH77,Dairy,Low Fat,19.34
+FDH78,Canned,Low Fat,14.51
+FDH79,Frozen Foods,Regular,15.28
+FDH81,Frozen Foods,Regular,8.2
+FDH83,Baking Goods,Regular,7.61
+FDH84,Fruits and Vegetables,Low Fat,8.56
+FDH85,Dairy,Regular,15.64
+FDH86,Fruits and Vegetables,Low Fat,13.48
+FDH88,Baking Goods,Low Fat,10.29
+FDH89,Fruits and Vegetables,Regular,16.23
+FDH91,Fruits and Vegetables,Regular,12.2
+FDH92,Meat,Low Fat,11.03
+FDH93,Snack Foods,Regular,13.78
+FDH94,Snack Foods,Low Fat,19.14
+FDH95,Snack Foods,Low Fat,15.64
+FDH98,Frozen Foods,Low Fat,11.42
+FDI11,Snack Foods,Low Fat,14.28
+FDI12,Fruits and Vegetables,Regular,14.37
+FDI13,Snack Foods,Regular,16.38
+FDI14,Snack Foods,Regular,11.58
+FDI15,Snack Foods,Regular,10.46
+FDI16,Canned,Low Fat,12.54
+FDI19,Meat,Regular,18.92
+FDI22,Baking Goods,Low Fat,14.24
+FDI23,Snack Foods,Low Fat,16.22
+FDI29,Canned,Low Fat,14.12
+FDI32,Fruits and Vegetables,Regular,11.59
+FDI33,Fruits and Vegetables,Regular,19.88
+FDI34,Snack Foods,Low Fat,10.48
+FDI35,Fruits and Vegetables,Regular,15.3
+FDI37,Frozen Foods,Low Fat,10.45
+FDI38,Baking Goods,Low Fat,8.49
+FDI41,Snack Foods,Low Fat,12.0
+FDI44,Snack Foods,Low Fat,9.96
+FDI46,Snack Foods,Regular,5.7
+FDI47,Frozen Foods,Low Fat,11.29
+FDI49,Dairy,Regular,11.68
+FDI50,Baking Goods,Low Fat,10.07
+FDI54,Dairy,Low Fat,11.01
+FDI55,Fruits and Vegetables,Low Fat,15.59
+FDI56,Breads,Regular,16.22
+FDI57,Canned,Regular,10.42
+FDI59,Meat,Low Fat,14.58
+FDI60,Meat,Regular,10.6
+FDI61,Dairy,Low Fat,16.57
+FDI64,Frozen Foods,Regular,13.05
+FDI65,Fruits and Vegetables,Regular,7.75
+FDI67,Canned,Low Fat,13.07
+FDI68,Snack Foods,Low Fat,13.72
+FDI69,Meat,Low Fat,13.04
+FDI71,Canned,Regular,9.91
+FDI73,Dairy,Regular,18.89
+FDI75,Frozen Foods,Low Fat,12.73
+FDI76,Dairy,Low Fat,13.82
+FDI77,Canned,Regular,13.11
+FDI79,Meat,Low Fat,14.51
+FDI82,Canned,Low Fat,11.89
+FDI83,Frozen Foods,Low Fat,8.19
+FDI85,Snack Foods,Regular,14.49
+FDI86,Canned,Low Fat,15.32
+FDI90,Breads,Low Fat,13.91
+FDI91,Breakfast,Low Fat,13.35
+FDI92,Canned,Regular,13.43
+FDI94,Meat,Low Fat,9.74
+FDI95,Frozen Foods,Low Fat,7.81
+FDI96,Fruits and Vegetables,Regular,13.88
+FDJ10,Fruits and Vegetables,Low Fat,8.77
+FDJ11,Frozen Foods,Regular,12.2
+FDJ13,Frozen Foods,Low Fat,12.75
+FDJ14,Snack Foods,Regular,10.92
+FDJ15,Snack Foods,Regular,12.32
+FDJ16,Baking Goods,Regular,15.69
+FDJ18,Baking Goods,Low Fat,11.75
+FDJ22,Baking Goods,Low Fat,13.46
+FDJ23,Fruits and Vegetables,Regular,13.42
+FDJ26,Meat,Regular,16.14
+FDJ27,Meat,Regular,12.47
+FDJ29,Snack Foods,Regular,15.16
+FDJ31,Fruits and Vegetables,Regular,13.04
+FDJ35,Fruits and Vegetables,Low Fat,12.7
+FDJ36,Canned,Low Fat,9.53
+FDJ37,Frozen Foods,Low Fat,8.17
+FDJ38,Breakfast,Low Fat,14.5
+FDJ40,Canned,Low Fat,14.15
+FDJ42,Fruits and Vegetables,Low Fat,14.77
+FDJ47,Snack Foods,Low Fat,15.21
+FDJ48,Fruits and Vegetables,Regular,12.93
+FDJ49,Baking Goods,Low Fat,9.86
+FDJ50,Fruits and Vegetables,Low Fat,16.88
+FDJ51,Dairy,Low Fat,12.94
+FDJ53,Meat,Low Fat,12.34
+FDJ54,Fruits and Vegetables,Low Fat,9.42
+FDJ58,Fruits and Vegetables,Regular,12.64
+FDJ60,Fruits and Vegetables,Low Fat,19.34
+FDJ66,Snack Foods,Low Fat,17.53
+FDJ68,Fruits and Vegetables,Low Fat,17.58
+FDJ72,Baking Goods,Regular,10.08
+FDJ74,Dairy,Low Fat,10.24
+FDJ76,Breads,Regular,7.79
+FDJ82,Meat,Low Fat,14.32
+FDJ84,Seafood,Regular,9.58
+FDJ85,Frozen Foods,Low Fat,11.84
+FDJ86,Seafood,Low Fat,12.3
+FDJ87,Snack Foods,Low Fat,14.07
+FDJ88,Baking Goods,Regular,16.72
+FDJ89,Snack Foods,Regular,17.83
+FDJ98,Baking Goods,Low Fat,13.24
+FDK10,Canned,Low Fat,9.48
+FDK11,Canned,Low Fat,11.78
+FDK15,Canned,Regular,11.19
+FDK17,Meat,Low Fat,8.05
+FDK22,Dairy,Low Fat,19.01
+FDK28,Fruits and Vegetables,Regular,9.77
+FDK30,Canned,Low Fat,7.88
+FDK31,Breakfast,Low Fat,20.61
+FDK32,Fruits and Vegetables,Regular,17.3
+FDK33,Fruits and Vegetables,Low Fat,11.53
+FDK41,Dairy,Low Fat,13.18
+FDK42,Frozen Foods,Low Fat,11.39
+FDK43,Frozen Foods,Regular,16.88
+FDK44,Meat,Regular,11.61
+FDK46,Fruits and Vegetables,Regular,10.3
+FDK47,Fruits and Vegetables,Regular,15.32
+FDK49,Frozen Foods,Low Fat,11.64
+FDK50,Seafood,Low Fat,11.21
+FDK51,Starchy Foods,Low Fat,12.51
+FDK52,Canned,Low Fat,10.1
+FDK54,Starchy Foods,Low Fat,13.3
+FDK55,Snack Foods,Low Fat,9.72
+FDK57,Snack Foods,Low Fat,14.38
+FDK59,Meat,Low Fat,13.24
+FDK61,Snack Foods,Regular,8.92
+FDK62,Frozen Foods,Low Fat,10.3
+FDK65,Frozen Foods,Low Fat,6.47
+FDK68,Starchy Foods,Low Fat,10.41
+FDK69,Baking Goods,Low Fat,11.64
+FDK72,Frozen Foods,Regular,12.28
+FDK74,Fruits and Vegetables,Low Fat,14.82
+FDK77,Meat,Regular,14.04
+FDK78,Dairy,Low Fat,15.71
+FDK79,Meat,Low Fat,13.0
+FDK85,Frozen Foods,Low Fat,9.91
+FDK86,Snack Foods,Regular,9.59
+FDK88,Frozen Foods,Low Fat,15.94
+FDK90,Canned,Low Fat,13.52
+FDK93,Baking Goods,Low Fat,13.82
+FDK96,Canned,Regular,10.14
+FDL12,Baking Goods,Low Fat,12.63
+FDL13,Meat,Low Fat,8.59
+FDL14,Dairy,Low Fat,8.52
+FDL18,Fruits and Vegetables,Regular,8.87
+FDL22,Frozen Foods,Low Fat,14.6
+FDL23,Baking Goods,Low Fat,10.33
+FDL24,Dairy,Low Fat,17.41
+FDL25,Meat,Low Fat,12.32
+FDL27,Fruits and Vegetables,Low Fat,13.7
+FDL28,Dairy,Regular,18.12
+FDL29,Breakfast,Low Fat,9.18
+FDL30,Fruits and Vegetables,Low Fat,9.32
+FDL31,Fruits and Vegetables,Low Fat,14.06
+FDL32,Fruits and Vegetables,Low Fat,11.32
+FDL33,Fruits and Vegetables,Low Fat,18.74
+FDL35,Canned,Regular,12.02
+FDL36,Frozen Foods,Regular,10.32
+FDL37,Canned,Regular,8.82
+FDL40,Frozen Foods,Regular,19.75
+FDL41,Meat,Low Fat,14.93
+FDL42,Baking Goods,Low Fat,8.79
+FDL44,Dairy,Regular,7.35
+FDL45,Fruits and Vegetables,Low Fat,11.44
+FDL46,Fruits and Vegetables,Regular,15.64
+FDL47,Snack Foods,Low Fat,17.29
+FDL49,Breakfast,Regular,7.69
+FDL55,Snack Foods,Regular,13.11
+FDL58,Snack Foods,Low Fat,13.73
+FDL61,Breakfast,Low Fat,14.74
+FDL63,Fruits and Vegetables,Low Fat,14.9
+FDL67,Canned,Low Fat,9.91
+FDL69,Meat,Low Fat,11.64
+FDL71,Dairy,Low Fat,18.06
+FDL73,Baking Goods,Low Fat,10.94
+FDL74,Frozen Foods,Regular,11.72
+FDL76,Snack Foods,Regular,7.8
+FDL77,Dairy,Low Fat,12.71
+FDL80,Frozen Foods,Low Fat,9.78
+FDL87,Frozen Foods,Low Fat,16.53
+FDL88,Breads,Low Fat,16.47
+FDL89,Frozen Foods,Regular,11.19
+FDL90,Fruits and Vegetables,Low Fat,14.58
+FDL91,Snack Foods,Low Fat,11.85
+FDL93,Fruits and Vegetables,Low Fat,12.19
+FDL94,Baking Goods,Regular,9.81
+FDL95,Meat,Low Fat,10.36
+FDL98,Canned,Low Fat,11.82
+FDM10,Dairy,Low Fat,12.26
+FDM11,Canned,Low Fat,13.39
+FDM12,Fruits and Vegetables,Low Fat,19.95
+FDM13,Starchy Foods,Low Fat,14.38
+FDM15,Breads,Low Fat,12.13
+FDM17,Fruits and Vegetables,Low Fat,15.24
+FDM18,Fruits and Vegetables,Regular,13.93
+FDM20,Baking Goods,Low Fat,12.52
+FDM22,Frozen Foods,Low Fat,20.44
+FDM24,Frozen Foods,Regular,12.45
+FDM25,Snack Foods,Regular,15.94
+FDM26,Meat,Regular,8.83
+FDM29,Baking Goods,Regular,13.48
+FDM36,Seafood,Low Fat,8.7
+FDM37,Baking Goods,Regular,10.89
+FDM41,Breakfast,Regular,17.39
+FDM44,Dairy,Regular,19.51
+FDM45,Frozen Foods,Low Fat,14.12
+FDM46,Baking Goods,Low Fat,15.09
+FDM47,Baking Goods,Low Fat,21.5
+FDM49,Dairy,Low Fat,10.94
+FDM51,Snack Foods,Regular,13.18
+FDM52,Snack Foods,Low Fat,15.84
+FDM55,Fruits and Vegetables,Low Fat,15.48
+FDM56,Fruits and Vegetables,Regular,16.0
+FDM58,Fruits and Vegetables,Regular,12.04
+FDM59,Fruits and Vegetables,Low Fat,12.72
+FDM63,Fruits and Vegetables,Low Fat,15.27
+FDM66,Snack Foods,Regular,21.0
+FDM67,Fruits and Vegetables,Low Fat,16.66
+FDM68,Fruits and Vegetables,Low Fat,15.1
+FDM70,Fruits and Vegetables,Low Fat,4.5
+FDM71,Snack Foods,Regular,12.73
+FDM73,Frozen Foods,Low Fat,18.01
+FDM74,Meat,Low Fat,17.18
+FDM82,Snack Foods,Regular,13.27
+FDM87,Fruits and Vegetables,Low Fat,16.92
+FDM90,Snack Foods,Regular,11.0
+FDM91,Canned,Regular,19.91
+FDM94,Frozen Foods,Regular,15.2
+FDM97,Meat,Regular,12.61
+FDM98,Snack Foods,Low Fat,15.88
+FDN11,Snack Foods,Regular,11.79
+FDN12,Frozen Foods,Low Fat,14.24
+FDN13,Starchy Foods,Low Fat,10.4
+FDN18,Snack Foods,Regular,10.23
+FDN19,Snack Foods,Low Fat,13.09
+FDN21,Fruits and Vegetables,Low Fat,7.51
+FDN25,Frozen Foods,Regular,16.58
+FDN27,Baking Goods,Regular,13.77
+FDN28,Meat,Regular,10.79
+FDN33,Baking Goods,Low Fat,12.3
+FDN34,Meat,Low Fat,14.92
+FDN36,Fruits and Vegetables,Low Fat,19.63
+FDN37,Breakfast,Regular,20.38
+FDN38,Breads,Low Fat,7.73
+FDN39,Snack Foods,Regular,13.82
+FDN41,Frozen Foods,Low Fat,16.42
+FDN42,Baking Goods,Regular,15.63
+FDN44,Snack Foods,Low Fat,18.8
+FDN45,Fruits and Vegetables,Low Fat,7.53
+FDN47,Snack Foods,Low Fat,14.99
+FDN48,Frozen Foods,Regular,14.09
+FDN50,Frozen Foods,Low Fat,14.7
+FDN52,Meat,Low Fat,14.09
+FDN53,Fruits and Vegetables,Regular,12.31
+FDN54,Baking Goods,Low Fat,13.72
+FDN57,Fruits and Vegetables,Low Fat,14.63
+FDN58,Meat,Regular,14.57
+FDN63,Fruits and Vegetables,Low Fat,14.38
+FDN64,Frozen Foods,Low Fat,12.1
+FDN67,Canned,Regular,13.74
+FDN70,Snack Foods,Low Fat,18.42
+FDN71,Snack Foods,Regular,6.41
+FDN72,Fruits and Vegetables,Regular,13.75
+FDN73,Canned,Low Fat,5.71
+FDN74,Fruits and Vegetables,Low Fat,17.63
+FDN75,Breads,Low Fat,16.62
+FDN76,Fruits and Vegetables,Low Fat,14.9
+FDN77,Fruits and Vegetables,Low Fat,10.87
+FDN78,Fruits and Vegetables,Low Fat,11.39
+FDN79,Baking Goods,Low Fat,14.49
+FDN82,Dairy,Regular,13.32
+FDN85,Frozen Foods,Low Fat,13.7
+FDN87,Dairy,Regular,13.65
+FDN89,Breakfast,Low Fat,10.85
+FDN92,Snack Foods,Low Fat,16.52
+FDN94,Canned,Low Fat,16.42
+FDN95,Canned,Regular,16.7
+FDN98,Fruits and Vegetables,Low Fat,14.49
+FDO10,Fruits and Vegetables,Low Fat,11.46
+FDO11,Canned,Low Fat,13.48
+FDO12,Dairy,Regular,10.84
+FDO13,Meat,Regular,14.55
+FDO14,Snack Foods,Regular,8.88
+FDO16,Fruits and Vegetables,Regular,17.65
+FDO19,Baking Goods,Low Fat,16.91
+FDO20,Baking Goods,Low Fat,14.71
+FDO22,Fruits and Vegetables,Low Fat,11.79
+FDO27,Frozen Foods,Low Fat,11.64
+FDO31,Frozen Foods,Low Fat,10.09
+FDO33,Fruits and Vegetables,Low Fat,13.04
+FDO34,Dairy,Low Fat,12.65
+FDO35,Meat,Low Fat,17.63
+FDO37,Snack Foods,Regular,10.5
+FDO38,Breads,Regular,10.7
+FDO39,Frozen Foods,Regular,13.18
+FDO41,Baking Goods,Low Fat,10.43
+FDO43,Frozen Foods,Regular,14.16
+FDO44,Fruits and Vegetables,Low Fat,9.89
+FDO45,Meat,Regular,8.49
+FDO46,Fruits and Vegetables,Regular,13.57
+FDO47,Snack Foods,Low Fat,14.7
+FDO48,Snack Foods,Low Fat,14.17
+FDO50,Dairy,Regular,14.15
+FDO54,Frozen Foods,Low Fat,19.75
+FDO55,Frozen Foods,Low Fat,14.2
+FDO58,Fruits and Vegetables,Low Fat,12.97
+FDO60,Fruits and Vegetables,Low Fat,14.41
+FDO62,Fruits and Vegetables,Regular,11.43
+FDO63,Fruits and Vegetables,Regular,13.77
+FDO64,Fruits and Vegetables,Low Fat,15.46
+FDO67,Meat,Regular,14.86
+FDO68,Fruits and Vegetables,Low Fat,13.78
+FDO73,Fruits and Vegetables,Regular,13.67
+FDO74,Frozen Foods,Low Fat,13.59
+FDO75,Starchy Foods,Low Fat,10.79
+FDO78,Snack Foods,Low Fat,14.29
+FDO79,Snack Foods,Regular,13.22
+FDO84,Baking Goods,Low Fat,12.74
+FDO85,Fruits and Vegetables,Low Fat,12.43
+FDO86,Snack Foods,Low Fat,14.3
+FDO87,Snack Foods,Low Fat,18.25
+FDO88,Frozen Foods,Low Fat,13.91
+FDO91,Fruits and Vegetables,Low Fat,13.2
+FDO93,Frozen Foods,Regular,7.19
+FDO94,Starchy Foods,Low Fat,13.4
+FDP10,Meat,Low Fat,11.84
+FDP12,Frozen Foods,Regular,12.89
+FDP13,Snack Foods,Regular,21.06
+FDP14,Dairy,Regular,8.05
+FDP15,Fruits and Vegetables,Regular,11.28
+FDP16,Fruits and Vegetables,Low Fat,6.86
+FDP18,Fruits and Vegetables,Low Fat,15.32
+FDP20,Frozen Foods,Regular,12.18
+FDP22,Meat,Regular,12.21
+FDP24,Snack Foods,Regular,13.63
+FDP25,Snack Foods,Regular,14.6
+FDP26,Frozen Foods,Low Fat,14.86
+FDP27,Frozen Foods,Regular,14.75
+FDP28,Dairy,Low Fat,13.64
+FDP29,Dairy,Low Fat,12.46
+FDP30,Meat,Regular,13.51
+FDP43,Dairy,Low Fat,12.8
+FDP44,Frozen Foods,Regular,13.31
+FDP46,Baking Goods,Regular,12.62
+FDP47,Snack Foods,Low Fat,14.02
+FDP49,Fruits and Vegetables,Low Fat,15.14
+FDP50,Canned,Low Fat,13.1
+FDP52,Fruits and Vegetables,Regular,12.55
+FDP54,Dairy,Regular,13.12
+FDP55,Snack Foods,Regular,13.23
+FDP57,Meat,Low Fat,9.04
+FDP59,Snack Foods,Low Fat,6.88
+FDP63,Frozen Foods,Low Fat,9.36
+FDP64,Fruits and Vegetables,Regular,10.31
+FDP65,Canned,Low Fat,18.56
+FDP68,Fruits and Vegetables,Low Fat,16.07
+FDP70,Snack Foods,Regular,13.0
+FDP71,Baking Goods,Regular,13.25
+FDP72,Meat,Regular,17.5
+FDP75,Fruits and Vegetables,Low Fat,12.16
+FDP78,Frozen Foods,Low Fat,7.28
+FDP79,Canned,Low Fat,12.4
+FDP81,Canned,Low Fat,9.22
+FDP84,Baking Goods,Low Fat,11.37
+FDP85,Snack Foods,Regular,19.04
+FDP87,Baking Goods,Low Fat,13.58
+FDP90,Baking Goods,Regular,11.32
+FDP91,Baking Goods,Low Fat,16.69
+FDP92,Baking Goods,Low Fat,14.55
+FDP94,Frozen Foods,Low Fat,12.23
+FDP96,Canned,Low Fat,7.58
+FDP98,Fruits and Vegetables,Low Fat,13.36
+FDQ10,Frozen Foods,Low Fat,14.78
+FDQ12,Meat,Regular,7.76
+FDQ16,Canned,Low Fat,17.42
+FDQ24,Seafood,Low Fat,15.88
+FDQ26,Fruits and Vegetables,Regular,15.59
+FDQ28,Fruits and Vegetables,Low Fat,13.41
+FDQ30,Canned,Regular,10.98
+FDQ31,Breakfast,Regular,11.94
+FDQ33,Frozen Foods,Low Fat,10.97
+FDQ34,Baking Goods,Regular,11.92
+FDQ39,Dairy,Regular,14.86
+FDQ44,Snack Foods,Low Fat,12.48
+FDQ46,Snack Foods,Low Fat,20.43
+FDQ49,Meat,Low Fat,13.92
+FDQ50,Seafood,Regular,9.64
+FDQ54,Dairy,Low Fat,13.32
+FDQ55,Fruits and Vegetables,Low Fat,15.91
+FDQ58,Snack Foods,Low Fat,13.32
+FDQ59,Meat,Low Fat,11.65
+FDQ60,Baking Goods,Low Fat,6.63
+FDQ61,Frozen Foods,Low Fat,12.65
+FDQ62,Starchy Foods,Low Fat,12.27
+FDQ63,Frozen Foods,Low Fat,8.46
+FDQ64,Baking Goods,Regular,13.41
+FDQ66,Frozen Foods,Regular,11.88
+FDQ68,Frozen Foods,Regular,17.42
+FDQ70,Breads,Low Fat,14.32
+FDQ71,Snack Foods,Regular,11.32
+FDQ72,Frozen Foods,Low Fat,14.78
+FDQ74,Starchy Foods,Regular,11.05
+FDQ75,Canned,Regular,9.67
+FDQ77,Snack Foods,Low Fat,17.7
+FDQ78,Breads,Regular,16.75
+FDQ79,Fruits and Vegetables,Regular,15.26
+FDQ84,Snack Foods,Regular,9.64
+FDQ86,Baking Goods,Low Fat,12.73
+FDQ89,Snack Foods,Regular,15.32
+FDQ90,Fruits and Vegetables,Low Fat,18.83
+FDQ91,Snack Foods,Low Fat,10.32
+FDQ92,Frozen Foods,Regular,17.1
+FDQ93,Canned,Regular,14.71
+FDQ96,Frozen Foods,Regular,11.68
+FDQ97,Snack Foods,Regular,11.96
+FDR10,Snack Foods,Low Fat,4.59
+FDR13,Dairy,Regular,7.71
+FDR14,Fruits and Vegetables,Regular,14.39
+FDR15,Snack Foods,Low Fat,11.09
+FDR17,Baking Goods,Regular,7.61
+FDR18,Canned,Regular,10.83
+FDR22,Meat,Low Fat,15.97
+FDR23,Frozen Foods,Low Fat,11.02
+FDR24,Breads,Low Fat,11.25
+FDR25,Snack Foods,Low Fat,13.41
+FDR27,Snack Foods,Low Fat,15.61
+FDR28,Fruits and Vegetables,Low Fat,11.69
+FDR30,Breads,Low Fat,15.74
+FDR33,Dairy,Low Fat,15.92
+FDR35,Canned,Low Fat,12.35
+FDR36,Dairy,Low Fat,15.3
+FDR39,Frozen Foods,Low Fat,14.54
+FDR43,Fruits and Vegetables,Low Fat,11.07
+FDR44,Breads,Low Fat,11.05
+FDR48,Fruits and Vegetables,Low Fat,15.36
+FDR49,Snack Foods,Low Fat,14.81
+FDR54,Frozen Foods,Low Fat,12.12
+FDR57,Dairy,Low Fat,12.31
+FDR58,Fruits and Vegetables,Low Fat,9.95
+FDR59,Dairy,Low Fat,10.24
+FDR61,Baking Goods,Low Fat,9.65
+FDR64,Dairy,Regular,13.47
+FDR70,Snack Foods,Low Fat,13.3
+FDR71,Snack Foods,Low Fat,9.75
+FDR73,Breads,Low Fat,12.0
+FDR76,Snack Foods,Low Fat,13.07
+FDR77,Fruits and Vegetables,Regular,14.83
+FDR78,Frozen Foods,Low Fat,12.08
+FDR80,Fruits and Vegetables,Regular,15.67
+FDR82,Frozen Foods,Low Fat,6.91
+FDR83,Frozen Foods,Low Fat,9.33
+FDR84,Meat,Regular,11.01
+FDR85,Snack Foods,Regular,17.06
+FDR87,Fruits and Vegetables,Low Fat,15.03
+FDR89,Frozen Foods,Regular,12.98
+FDR90,Frozen Foods,Low Fat,13.7
+FDR91,Baking Goods,Low Fat,11.83
+FDR92,Meat,Regular,12.57
+FDR94,Snack Foods,Regular,9.59
+FDR97,Frozen Foods,Low Fat,12.88
+FDR98,Breads,Low Fat,14.04
+FDS11,Canned,Low Fat,12.36
+FDS12,Snack Foods,Low Fat,12.44
+FDS13,Fruits and Vegetables,Regular,11.9
+FDS14,Frozen Foods,Regular,11.42
+FDS15,Fruits and Vegetables,Low Fat,12.64
+FDS16,Snack Foods,Low Fat,8.79
+FDS19,Baking Goods,Low Fat,15.99
+FDS22,Meat,Regular,19.08
+FDS25,Breakfast,Low Fat,9.06
+FDS27,Snack Foods,Low Fat,12.06
+FDS31,Baking Goods,Low Fat,13.31
+FDS32,Meat,Regular,15.92
+FDS33,Baking Goods,Low Fat,13.67
+FDS34,Meat,Low Fat,14.86
+FDS40,Frozen Foods,Low Fat,8.85
+FDS42,Fruits and Vegetables,Regular,14.15
+FDS46,Baking Goods,Regular,10.98
+FDS47,Fruits and Vegetables,Low Fat,11.45
+FDS48,Dairy,Regular,16.77
+FDS54,Canned,Regular,9.19
+FDS56,Frozen Foods,Regular,11.06
+FDS58,Dairy,Low Fat,9.46
+FDS61,Fruits and Vegetables,Low Fat,14.04
+FDS64,Frozen Foods,Low Fat,15.58
+FDS67,Snack Foods,Low Fat,17.86
+FDS68,Frozen Foods,Low Fat,14.36
+FDS69,Snack Foods,Regular,14.84
+FDS71,Snack Foods,Low Fat,15.26
+FDS72,Snack Foods,Low Fat,9.03
+FDS73,Snack Foods,Regular,19.42
+FDS74,Frozen Foods,Regular,17.09
+FDS75,Starchy Foods,Regular,15.23
+FDS76,Fruits and Vegetables,Low Fat,10.6
+FDS77,Fruits and Vegetables,Low Fat,10.94
+FDS83,Dairy,Low Fat,12.32
+FDS86,Breads,Low Fat,12.86
+FDS88,Canned,Low Fat,7.92
+FDS89,Snack Foods,Low Fat,12.09
+FDS91,Fruits and Vegetables,Regular,12.71
+FDS92,Fruits and Vegetables,Low Fat,13.93
+FDS94,Snack Foods,Low Fat,12.89
+FDT10,Snack Foods,Low Fat,6.31
+FDT14,Canned,Low Fat,10.56
+FDT16,Fruits and Vegetables,Low Fat,10.58
+FDT17,Meat,Low Fat,4.69
+FDT21,Dairy,Regular,21.5
+FDT23,Dairy,Low Fat,20.91
+FDT27,Fruits and Vegetables,Regular,14.09
+FDT28,Meat,Low Fat,15.39
+FDT29,Frozen Foods,Regular,11.37
+FDT30,Dairy,Regular,13.25
+FDT31,Fruits and Vegetables,Regular,9.95
+FDT33,Baking Goods,Low Fat,20.69
+FDT34,Seafood,Regular,9.86
+FDT36,Meat,Low Fat,10.72
+FDT40,Frozen Foods,Low Fat,8.91
+FDT45,Frozen Foods,Regular,10.41
+FDT47,Baking Goods,Regular,19.55
+FDT48,Dairy,Regular,15.07
+FDT49,Dairy,Low Fat,10.39
+FDT52,Dairy,Regular,13.79
+FDT54,Snack Foods,Regular,12.54
+FDT55,Meat,Low Fat,12.8
+FDT57,Snack Foods,Low Fat,13.14
+FDT60,Fruits and Vegetables,Low Fat,11.04
+FDT62,Meat,Low Fat,14.8
+FDT63,Breakfast,Low Fat,11.09
+FDT66,Canned,Low Fat,11.38
+FDT68,Fruits and Vegetables,Regular,15.72
+FDT69,Snack Foods,Low Fat,12.43
+FDT71,Baking Goods,Regular,10.98
+FDT72,Dairy,Low Fat,17.68
+FDT73,Breakfast,Low Fat,6.28
+FDT76,Dairy,Regular,9.04
+FDT77,Canned,Low Fat,15.34
+FDT78,Frozen Foods,Regular,17.02
+FDT79,Dairy,Low Fat,15.65
+FDT81,Fruits and Vegetables,Regular,10.61
+FDT82,Dairy,Regular,16.29
+FDT83,Baking Goods,Low Fat,13.79
+FDT84,Canned,Regular,14.88
+FDT85,Canned,Low Fat,16.66
+FDT88,Seafood,Regular,15.0
+FDT89,Canned,Low Fat,10.39
+FDT91,Frozen Foods,Low Fat,9.27
+FDT92,Dairy,Low Fat,11.23
+FDT93,Fruits and Vegetables,Low Fat,12.47
+FDT95,Dairy,Low Fat,11.26
+FDT96,Snack Foods,Low Fat,17.25
+FDU15,Baking Goods,Regular,12.5
+FDU18,Seafood,Regular,7.25
+FDU19,Canned,Low Fat,11.19
+FDU21,Baking Goods,Low Fat,10.24
+FDU22,Fruits and Vegetables,Low Fat,16.54
+FDU23,Fruits and Vegetables,Low Fat,11.81
+FDU25,Snack Foods,Regular,12.32
+FDU28,Frozen Foods,Regular,12.69
+FDU30,Baking Goods,Low Fat,8.87
+FDU33,Fruits and Vegetables,Low Fat,21.5
+FDU40,Dairy,Low Fat,19.18
+FDU41,Snack Foods,Low Fat,12.0
+FDU45,Baking Goods,Regular,7.42
+FDU46,Frozen Foods,Low Fat,12.49
+FDU47,Fruits and Vegetables,Regular,14.52
+FDU48,Snack Foods,Low Fat,15.68
+FDU50,Starchy Foods,Regular,13.77
+FDU53,Frozen Foods,Regular,12.38
+FDU54,Dairy,Regular,12.69
+FDU55,Snack Foods,Low Fat,16.22
+FDU56,Fruits and Vegetables,Low Fat,14.46
+FDU59,Canned,Low Fat,8.87
+FDU63,Fruits and Vegetables,Regular,10.17
+FDU65,Baking Goods,Regular,10.79
+FDU66,Fruits and Vegetables,Regular,17.14
+FDU68,Frozen Foods,Low Fat,11.73
+FDU69,Snack Foods,Low Fat,12.99
+FDU75,Starchy Foods,Regular,12.6
+FDU76,Frozen Foods,Low Fat,11.48
+FDU78,Snack Foods,Low Fat,12.52
+FDU83,Baking Goods,Regular,13.72
+FDU84,Dairy,Regular,13.67
+FDU86,Snack Foods,Low Fat,15.79
+FDU87,Canned,Low Fat,10.33
+FDU88,Snack Foods,Low Fat,13.43
+FDU90,Frozen Foods,Regular,6.07
+FDU93,Snack Foods,Regular,14.14
+FDU94,Baking Goods,Low Fat,6.31
+FDU95,Snack Foods,Regular,12.02
+FDU97,Fruits and Vegetables,Regular,13.67
+FDU98,Starchy Foods,Regular,12.65
+FDV11,Fruits and Vegetables,Regular,15.25
+FDV17,Canned,Low Fat,11.85
+FDV18,Breads,Low Fat,8.3
+FDV19,Frozen Foods,Regular,13.56
+FDV21,Fruits and Vegetables,Low Fat,10.03
+FDV24,Snack Foods,Regular,13.06
+FDV25,Baking Goods,Low Fat,14.91
+FDV29,Fruits and Vegetables,Regular,16.16
+FDV30,Frozen Foods,Regular,16.92
+FDV34,Fruits and Vegetables,Low Fat,14.61
+FDV39,Snack Foods,Regular,11.49
+FDV42,Canned,Low Fat,16.4
+FDV44,Snack Foods,Low Fat,12.09
+FDV45,Fruits and Vegetables,Low Fat,10.7
+FDV47,Snack Foods,Regular,12.69
+FDV48,Dairy,Regular,7.3
+FDV51,Frozen Foods,Low Fat,14.28
+FDV60,Frozen Foods,Low Fat,12.05
+FDV61,Canned,Low Fat,14.65
+FDV65,Dairy,Regular,14.3
+FDV69,Breakfast,Low Fat,13.83
+FDV70,Frozen Foods,Low Fat,16.98
+FDV73,Baking Goods,Regular,11.55
+FDV75,Snack Foods,Low Fat,15.37
+FDV77,Dairy,Regular,8.38
+FDV78,Dairy,Low Fat,20.72
+FDV80,Snack Foods,Regular,11.53
+FDV81,Fruits and Vegetables,Regular,10.45
+FDV82,Fruits and Vegetables,Low Fat,15.08
+FDV85,Fruits and Vegetables,Low Fat,18.17
+FDV87,Baking Goods,Regular,10.1
+FDV89,Fruits and Vegetables,Low Fat,17.22
+FDV90,Fruits and Vegetables,Low Fat,14.39
+FDV93,Fruits and Vegetables,Low Fat,16.87
+FDV96,Snack Foods,Low Fat,12.05
+FDV98,Snack Foods,Low Fat,12.57
+FDW10,Baking Goods,Low Fat,15.16
+FDW11,Frozen Foods,Low Fat,6.64
+FDW12,Canned,Regular,15.79
+FDW17,Snack Foods,Low Fat,12.72
+FDW18,Dairy,Low Fat,13.61
+FDW20,Frozen Foods,Low Fat,11.17
+FDW22,Dairy,Regular,12.87
+FDW23,Canned,Low Fat,14.84
+FDW24,Breakfast,Low Fat,12.79
+FDW25,Baking Goods,Low Fat,14.93
+FDW26,Seafood,Low Fat,7.28
+FDW29,Canned,Low Fat,13.37
+FDW30,Fruits and Vegetables,Low Fat,9.81
+FDW35,Dairy,Regular,11.66
+FDW36,Starchy Foods,Low Fat,9.74
+FDW37,Snack Foods,Regular,15.71
+FDW39,Frozen Foods,Regular,17.26
+FDW40,Snack Foods,Low Fat,13.18
+FDW41,Snack Foods,Regular,10.66
+FDW42,Snack Foods,Low Fat,6.74
+FDW43,Fruits and Vegetables,Low Fat,15.42
+FDW51,Baking Goods,Regular,14.56
+FDW52,Fruits and Vegetables,Regular,7.41
+FDW53,Breads,Low Fat,16.71
+FDW54,Fruits and Vegetables,Regular,14.0
+FDW57,Fruits and Vegetables,Low Fat,12.1
+FDW59,Snack Foods,Low Fat,15.56
+FDW60,Meat,Low Fat,14.42
+FDW62,Meat,Regular,9.43
+FDW66,Fruits and Vegetables,Regular,8.17
+FDW67,Breads,Low Fat,8.98
+FDW68,Frozen Foods,Low Fat,10.39
+FDW73,Frozen Foods,Regular,8.36
+FDW74,Snack Foods,Regular,15.21
+FDW78,Dairy,Low Fat,11.97
+FDW79,Snack Foods,Low Fat,11.02
+FDW80,Fruits and Vegetables,Regular,11.81
+FDW82,Snack Foods,Low Fat,14.45
+FDW86,Snack Foods,Low Fat,12.32
+FDW87,Baking Goods,Low Fat,9.04
+FDW88,Frozen Foods,Regular,15.3
+FDW89,Baking Goods,Low Fat,14.31
+FDW92,Fruits and Vegetables,Low Fat,9.21
+FDW94,Seafood,Low Fat,9.31
+FDW95,Canned,Regular,15.18
+FDW96,Frozen Foods,Regular,10.07
+FDW97,Frozen Foods,Low Fat,14.53
+FDW98,Canned,Regular,13.62
+FDX10,Dairy,Low Fat,16.03
+FDX13,Snack Foods,Low Fat,6.36
+FDX14,Fruits and Vegetables,Low Fat,13.34
+FDX15,Fruits and Vegetables,Regular,13.42
+FDX16,Fruits and Vegetables,Regular,15.5
+FDX18,Fruits and Vegetables,Low Fat,13.45
+FDX19,Canned,Low Fat,14.37
+FDX20,Dairy,Regular,10.59
+FDX24,Canned,Regular,12.52
+FDX25,Frozen Foods,Regular,12.92
+FDX26,Breads,Low Fat,8.45
+FDX29,Dairy,Low Fat,10.74
+FDX30,Frozen Foods,Regular,12.12
+FDX31,Fruits and Vegetables,Regular,7.69
+FDX35,Dairy,Regular,13.05
+FDX36,Canned,Low Fat,10.22
+FDX39,Canned,Low Fat,8.0
+FDX41,Snack Foods,Low Fat,15.99
+FDX44,Dairy,Regular,12.78
+FDX47,Frozen Foods,Low Fat,19.38
+FDX53,Snack Foods,Low Fat,11.32
+FDX55,Snack Foods,Low Fat,16.67
+FDX58,Snack Foods,Low Fat,8.95
+FDX59,Meat,Regular,8.27
+FDX60,Frozen Foods,Low Fat,14.13
+FDX61,Fruits and Vegetables,Low Fat,13.2
+FDX62,Snack Foods,Regular,13.02
+FDX63,Seafood,Regular,17.47
+FDX67,Baking Goods,Low Fat,18.3
+FDX68,Fruits and Vegetables,Low Fat,8.84
+FDX70,Frozen Foods,Low Fat,9.24
+FDX71,Starchy Foods,Regular,14.18
+FDX73,Dairy,Low Fat,11.83
+FDX78,Snack Foods,Low Fat,13.59
+FDX79,Fruits and Vegetables,Regular,18.3
+FDX80,Fruits and Vegetables,Low Fat,19.89
+FDX81,Snack Foods,Regular,10.68
+FDX84,Breads,Regular,13.26
+FDX85,Breads,Low Fat,14.18
+FDX86,Meat,Regular,4.5
+FDX87,Dairy,Low Fat,15.98
+FDX89,Frozen Foods,Regular,8.94
+FDX90,Meat,Low Fat,8.79
+FDX92,Snack Foods,Low Fat,7.23
+FDX96,Snack Foods,Low Fat,19.74
+FDX98,Fruits and Vegetables,Low Fat,15.92
+FDY10,Fruits and Vegetables,Low Fat,10.88
+FDY12,Snack Foods,Low Fat,16.05
+FDY14,Fruits and Vegetables,Low Fat,10.41
+FDY16,Snack Foods,Low Fat,12.8
+FDY17,Snack Foods,Regular,15.19
+FDY19,Snack Foods,Low Fat,12.26
+FDY22,Fruits and Vegetables,Low Fat,10.1
+FDY24,Frozen Foods,Low Fat,8.94
+FDY25,Starchy Foods,Regular,11.69
+FDY26,Dairy,Low Fat,8.26
+FDY28,Snack Foods,Low Fat,15.9
+FDY30,Seafood,Low Fat,9.91
+FDY31,Meat,Regular,8.07
+FDY32,Breads,Regular,12.66
+FDY34,Frozen Foods,Low Fat,13.67
+FDY36,Meat,Low Fat,15.28
+FDY41,Baking Goods,Regular,17.19
+FDY44,Canned,Low Fat,11.56
+FDY45,Meat,Regular,10.79
+FDY48,Fruits and Vegetables,Regular,6.92
+FDY52,Fruits and Vegetables,Low Fat,12.16
+FDY56,Snack Foods,Low Fat,14.0
+FDY57,Snack Foods,Regular,10.53
+FDY58,Fruits and Vegetables,Low Fat,8.65
+FDY60,Fruits and Vegetables,Regular,9.71
+FDY65,Canned,Low Fat,12.9
+FDY66,Breakfast,Regular,18.16
+FDY67,Snack Foods,Low Fat,18.2
+FDY70,Starchy Foods,Low Fat,13.15
+FDY71,Canned,Low Fat,10.24
+FDY73,Dairy,Low Fat,15.24
+FDY74,Frozen Foods,Low Fat,12.75
+FDY80,Dairy,Low Fat,16.13
+FDY83,Baking Goods,Low Fat,6.5
+FDY84,Starchy Foods,Regular,10.03
+FDY86,Snack Foods,Low Fat,15.42
+FDY88,Baking Goods,Low Fat,15.72
+FDY90,Dairy,Regular,11.13
+FDY91,Snack Foods,Low Fat,14.84
+FDY94,Frozen Foods,Low Fat,12.23
+FDY95,Snack Foods,Low Fat,12.22
+FDY98,Snack Foods,Low Fat,16.62
+FDZ12,Canned,Low Fat,8.82
+FDZ13,Fruits and Vegetables,Low Fat,10.31
+FDZ15,Dairy,Low Fat,12.61
+FDZ16,Frozen Foods,Low Fat,10.6
+FDZ18,Snack Foods,Low Fat,15.15
+FDZ19,Fruits and Vegetables,Low Fat,16.05
+FDZ20,Meat,Low Fat,12.31
+FDZ24,Fruits and Vegetables,Regular,14.59
+FDZ25,Fruits and Vegetables,Low Fat,11.86
+FDZ29,Frozen Foods,Low Fat,16.56
+FDZ30,Fruits and Vegetables,Low Fat,21.12
+FDZ31,Meat,Regular,12.71
+FDZ33,Canned,Low Fat,8.13
+FDZ34,Dairy,Low Fat,12.5
+FDZ36,Dairy,Low Fat,14.01
+FDZ38,Frozen Foods,Low Fat,13.55
+FDZ39,Canned,Low Fat,12.35
+FDZ40,Dairy,Low Fat,14.95
+FDZ41,Dairy,Regular,10.47
+FDZ43,Dairy,Low Fat,18.62
+FDZ44,Snack Foods,Low Fat,13.24
+FDZ46,Baking Goods,Low Fat,15.66
+FDZ47,Frozen Foods,Low Fat,8.66
+FDZ48,Baking Goods,Low Fat,12.39
+FDZ51,Meat,Regular,10.72
+FDZ53,Fruits and Vegetables,Regular,13.04
+FDZ56,Fruits and Vegetables,Regular,7.01
+FDZ57,Snack Foods,Regular,13.28
+FDZ58,Canned,Low Fat,5.41
+FDZ59,Dairy,Low Fat,16.51
+FDZ60,Dairy,Low Fat,15.24
+FDZ61,Fruits and Vegetables,Regular,20.08
+FDZ62,Meat,Low Fat,19.69
+FDZ63,Canned,Low Fat,8.68
+FDZ64,Baking Goods,Low Fat,8.98
+FDZ65,Frozen Foods,Low Fat,13.98
+FDZ67,Meat,Low Fat,13.73
+FDZ70,Frozen Foods,Low Fat,13.92
+FDZ71,Dairy,Low Fat,14.37
+FDZ73,Dairy,Low Fat,19.53
+FDZ75,Frozen Foods,Low Fat,13.11
+FDZ78,Breads,Low Fat,13.6
+FDZ81,Meat,Regular,15.11
+FDZ86,Snack Foods,Regular,11.8
+FDZ88,Canned,Low Fat,12.6
+FDZ89,Fruits and Vegetables,Low Fat,10.59
+FDZ93,Canned,Low Fat,13.65
+FDZ98,Fruits and Vegetables,Low Fat,8.47
+NCA16,Household,Low Fat,13.91
+NCA18,Household,Low Fat,10.11
+NCA32,Household,Low Fat,9.31
+NCA43,Others,Low Fat,12.85
+NCA52,Household,Low Fat,15.72
+NCA59,Health and Hygiene,Low Fat,7.4
+NCA82,Household,Low Fat,6.86
+NCA87,Health and Hygiene,Low Fat,9.68
+NCB20,Household,Low Fat,17.71
+NCB23,Health and Hygiene,Low Fat,20.1
+NCB29,Health and Hygiene,Low Fat,16.69
+NCB35,Household,Low Fat,21.5
+NCB39,Household,Low Fat,14.63
+NCB41,Others,Low Fat,10.51
+NCB47,Health and Hygiene,Low Fat,13.33
+NCB61,Household,Low Fat,14.94
+NCB63,Health and Hygiene,Low Fat,12.34
+NCB64,Health and Hygiene,Low Fat,4.5
+NCB76,Others,Low Fat,14.82
+NCC15,Others,Low Fat,15.69
+NCC36,Household,Low Fat,11.32
+NCC42,Health and Hygiene,Low Fat,13.16
+NCC48,Health and Hygiene,Low Fat,10.45
+NCC55,Household,Low Fat,18.03
+NCC56,Health and Hygiene,Low Fat,12.11
+NCC63,Household,Low Fat,9.87
+NCC64,Household,Low Fat,17.72
+NCC66,Household,Low Fat,18.3
+NCC89,Others,Low Fat,14.47
+NCD28,Household,Low Fat,15.59
+NCD29,Household,Low Fat,14.97
+NCD34,Household,Low Fat,6.86
+NCD45,Health and Hygiene,Low Fat,12.82
+NCD51,Others,Low Fat,14.43
+NCD55,Health and Hygiene,Low Fat,13.72
+NCD60,Household,Low Fat,13.09
+NCD67,Others,Low Fat,11.38
+NCD70,Household,Low Fat,14.21
+NCD72,Health and Hygiene,Low Fat,12.7
+NCD76,Household,Low Fat,15.44
+NCD84,Household,Low Fat,4.83
+NCD85,Household,Low Fat,13.97
+NCD91,Health and Hygiene,Low Fat,18.27
+NCD94,Household,Low Fat,18.27
+NCE14,Household,Low Fat,13.25
+NCE25,Health and Hygiene,Low Fat,19.92
+NCE28,Household,Low Fat,13.93
+NCE38,Health and Hygiene,Low Fat,18.93
+NCE40,Health and Hygiene,Low Fat,12.53
+NCE42,Health and Hygiene,Low Fat,10.3
+NCE49,Health and Hygiene,Low Fat,21.5
+NCE60,Household,Low Fat,14.03
+NCE65,Household,Low Fat,9.74
+NCE73,Health and Hygiene,Low Fat,14.81
+NCE77,Household,Low Fat,13.21
+NCE97,Health and Hygiene,Low Fat,16.27
+NCF12,Health and Hygiene,Low Fat,12.85
+NCF21,Household,Low Fat,16.77
+NCF23,Household,Low Fat,10.3
+NCF32,Household,Low Fat,13.95
+NCF58,Household,Low Fat,11.14
+NCF63,Household,Low Fat,9.36
+NCF68,Health and Hygiene,Low Fat,13.57
+NCF76,Household,Low Fat,14.08
+NCF83,Health and Hygiene,Low Fat,15.29
+NCG14,Household,Low Fat,13.08
+NCG17,Household,Low Fat,12.69
+NCG19,Health and Hygiene,Low Fat,13.32
+NCG33,Household,Low Fat,12.94
+NCG34,Household,Low Fat,15.58
+NCG36,Household,Low Fat,11.9
+NCG41,Health and Hygiene,Low Fat,10.44
+NCG45,Health and Hygiene,Low Fat,10.68
+NCG50,Health and Hygiene,Low Fat,16.03
+NCG52,Household,Low Fat,15.4
+NCG57,Health and Hygiene,Low Fat,17.47
+NCG61,Health and Hygiene,Low Fat,13.21
+NCG69,Household,Low Fat,16.45
+NCG72,Health and Hygiene,Low Fat,8.61
+NCH11,Household,Low Fat,16.69
+NCH12,Household,Low Fat,12.92
+NCH14,Household,Low Fat,17.7
+NCH27,Household,Low Fat,13.27
+NCH41,Household,Low Fat,12.3
+NCH45,Household,Low Fat,17.38
+NCH49,Household,Low Fat,17.4
+NCH56,Household,Low Fat,13.37
+NCH60,Health and Hygiene,Low Fat,13.91
+NCH82,Household,Low Fat,12.81
+NCH93,Household,Low Fat,10.74
+NCI12,Health and Hygiene,Low Fat,12.18
+NCI25,Health and Hygiene,Low Fat,13.19
+NCI28,Health and Hygiene,Low Fat,19.09
+NCI29,Health and Hygiene,Low Fat,12.12
+NCI33,Household,Low Fat,10.54
+NCI36,Health and Hygiene,Low Fat,6.07
+NCI38,Health and Hygiene,Low Fat,13.17
+NCI44,Health and Hygiene,Low Fat,10.01
+NCI49,Household,Low Fat,14.41
+NCI57,Others,Low Fat,13.83
+NCI60,Household,Low Fat,17.03
+NCI68,Household,Low Fat,15.61
+NCI73,Household,Low Fat,11.39
+NCI86,Household,Low Fat,15.54
+NCJ13,Household,Low Fat,15.28
+NCJ14,Others,Low Fat,11.25
+NCJ17,Household,Low Fat,15.77
+NCJ22,Household,Low Fat,8.88
+NCJ30,Health and Hygiene,Low Fat,18.46
+NCJ32,Household,Low Fat,13.43
+NCJ36,Household,Low Fat,13.98
+NCJ43,Household,Low Fat,16.37
+NCJ52,Household,Low Fat,16.13
+NCJ53,Household,Low Fat,18.07
+NCJ56,Health and Hygiene,Low Fat,18.99
+NCJ83,Household,Low Fat,12.01
+NCJ84,Household,Low Fat,12.98
+NCJ88,Health and Hygiene,Low Fat,10.67
+NCK31,Others,Low Fat,12.33
+NCK35,Health and Hygiene,Low Fat,12.64
+NCK39,Others,Low Fat,7.95
+NCK43,Household,Low Fat,13.66
+NCK45,Household,Low Fat,17.74
+NCK49,Health and Hygiene,Low Fat,12.77
+NCK50,Health and Hygiene,Low Fat,14.64
+NCK58,Household,Low Fat,16.12
+NCK64,Others,Low Fat,13.44
+NCK82,Health and Hygiene,Low Fat,15.17
+NCK87,Household,Low Fat,12.23
+NCK88,Household,Low Fat,16.85
+NCK91,Household,Low Fat,19.7
+NCK95,Household,Low Fat,16.51
+NCK96,Others,Low Fat,16.94
+NCL17,Household,Low Fat,11.38
+NCL20,Household,Low Fat,7.73
+NCL30,Household,Low Fat,12.4
+NCL34,Health and Hygiene,Low Fat,10.98
+NCL38,Health and Hygiene,Low Fat,9.44
+NCL40,Health and Hygiene,Low Fat,12.72
+NCL44,Household,Low Fat,17.81
+NCL54,Household,Low Fat,12.16
+NCL59,Household,Low Fat,14.36
+NCL63,Household,Low Fat,10.85
+NCL64,Health and Hygiene,Low Fat,9.98
+NCL75,Others,Low Fat,9.91
+NCL91,Household,Low Fat,15.26
+NCM33,Health and Hygiene,Low Fat,11.52
+NCM43,Others,Low Fat,14.83
+NCM47,Health and Hygiene,Low Fat,11.1
+NCM49,Household,Low Fat,12.42
+NCM56,Health and Hygiene,Low Fat,12.48
+NCM63,Household,Low Fat,13.97
+NCM67,Household,Low Fat,17.01
+NCM69,Household,Low Fat,14.76
+NCM97,Health and Hygiene,Low Fat,14.24
+NCM98,Household,Low Fat,15.92
+NCN22,Household,Low Fat,16.97
+NCN31,Household,Low Fat,14.94
+NCN33,Others,Low Fat,10.21
+NCN42,Health and Hygiene,Low Fat,14.03
+NCN48,Household,Low Fat,12.29
+NCN63,Household,Low Fat,15.38
+NCN64,Household,Low Fat,9.46
+NCN70,Health and Hygiene,Low Fat,15.89
+NCN71,Health and Hygiene,Low Fat,10.79
+NCN74,Health and Hygiene,Low Fat,10.24
+NCN75,Household,Low Fat,11.5
+NCN77,Household,Low Fat,18.51
+NCN82,Health and Hygiene,Low Fat,14.02
+NCN83,Health and Hygiene,Low Fat,11.51
+NCN91,Others,Low Fat,12.08
+NCN94,Health and Hygiene,Low Fat,15.74
+NCO34,Household,Low Fat,10.86
+NCO36,Household,Low Fat,20.27
+NCO39,Health and Hygiene,Low Fat,11.65
+NCO49,Household,Low Fat,12.31
+NCO55,Household,Low Fat,11.86
+NCO57,Household,Low Fat,12.2
+NCO59,Others,Low Fat,18.6
+NCO66,Household,Low Fat,17.29
+NCO72,Health and Hygiene,Low Fat,10.92
+NCO86,Household,Low Fat,18.63
+NCO92,Health and Hygiene,Low Fat,12.41
+NCP21,Health and Hygiene,Low Fat,14.18
+NCP27,Household,Low Fat,19.36
+NCP32,Household,Low Fat,19.73
+NCP39,Household,Low Fat,14.76
+NCP52,Health and Hygiene,Low Fat,9.23
+NCP64,Household,Low Fat,13.75
+NCP68,Health and Hygiene,Low Fat,15.88
+NCP70,Health and Hygiene,Low Fat,15.1
+NCP71,Household,Low Fat,11.36
+NCP80,Health and Hygiene,Low Fat,12.13
+NCP84,Household,Low Fat,9.89
+NCP90,Health and Hygiene,Low Fat,10.63
+NCQ11,Others,Low Fat,12.96
+NCQ25,Household,Low Fat,9.86
+NCQ33,Health and Hygiene,Low Fat,12.14
+NCQ38,Others,Low Fat,16.27
+NCQ42,Health and Hygiene,Low Fat,10.09
+NCQ45,Health and Hygiene,Low Fat,13.85
+NCQ72,Household,Low Fat,7.34
+NCQ81,Household,Low Fat,8.33
+NCQ83,Household,Low Fat,10.53
+NCR22,Household,Low Fat,13.92
+NCR27,Household,Low Fat,16.28
+NCR45,Household,Low Fat,10.37
+NCR50,Household,Low Fat,12.46
+NCR53,Household,Low Fat,11.83
+NCR56,Health and Hygiene,Low Fat,14.24
+NCR58,Health and Hygiene,Low Fat,15.34
+NCR59,Household,Low Fat,13.63
+NCR67,Household,Low Fat,13.66
+NCR83,Health and Hygiene,Low Fat,15.69
+NCR87,Household,Low Fat,9.35
+NCR94,Health and Hygiene,Low Fat,15.29
+NCS13,Health and Hygiene,Low Fat,19.36
+NCS21,Health and Hygiene,Low Fat,12.66
+NCS31,Household,Low Fat,19.28
+NCS33,Household,Low Fat,6.14
+NCS76,Health and Hygiene,Low Fat,12.79
+NCS77,Household,Low Fat,12.06
+NCS87,Household,Low Fat,12.68
+NCS94,Household,Low Fat,15.81
+NCS98,Others,Low Fat,13.11
+NCT16,Household,Low Fat,11.0
+NCT17,Household,Low Fat,13.9
+NCT18,Household,Low Fat,15.29
+NCT25,Household,Low Fat,15.62
+NCT29,Household,Low Fat,15.31
+NCT60,Others,Low Fat,13.11
+NCT62,Health and Hygiene,Low Fat,13.75
+NCT65,Household,Low Fat,5.4
+NCT72,Health and Hygiene,Low Fat,10.75
+NCT83,Health and Hygiene,Low Fat,14.6
+NCT86,Others,Low Fat,15.07
+NCT93,Household,Low Fat,12.14
+NCU10,Household,Low Fat,17.37
+NCU30,Household,Low Fat,8.47
+NCU35,Household,Low Fat,12.23
+NCU50,Household,Low Fat,13.22
+NCU51,Health and Hygiene,Low Fat,11.42
+NCU52,Household,Low Fat,11.3
+NCU59,Others,Low Fat,7.39
+NCU68,Household,Low Fat,20.07
+NCU80,Household,Low Fat,20.24
+NCU96,Household,Low Fat,12.39
+NCV12,Others,Low Fat,8.74
+NCV17,Health and Hygiene,Low Fat,10.05
+NCV23,Health and Hygiene,Low Fat,15.37
+NCV32,Health and Hygiene,Low Fat,13.86
+NCV38,Health and Hygiene,Low Fat,8.67
+NCV47,Health and Hygiene,Low Fat,6.87
+NCV60,Health and Hygiene,Low Fat,14.56
+NCV67,Others,Low Fat,14.23
+NCV68,Others,Low Fat,12.62
+NCV73,Household,Low Fat,13.8
+NCV85,Household,Low Fat,17.01
+NCV88,Health and Hygiene,Low Fat,14.59
+NCW23,Household,Low Fat,12.55
+NCW29,Others,Low Fat,7.91
+NCW30,Health and Hygiene,Low Fat,16.17
+NCW46,Others,Low Fat,14.88
+NCW50,Health and Hygiene,Low Fat,15.49
+NCW63,Others,Low Fat,14.19
+NCW80,Household,Low Fat,12.49
+NCW92,Household,Low Fat,10.56
+NCX26,Household,Low Fat,17.1
+NCX32,Health and Hygiene,Low Fat,14.44
+NCX42,Health and Hygiene,Low Fat,13.94
+NCX43,Household,Low Fat,11.64
+NCX49,Health and Hygiene,Low Fat,12.32
+NCX54,Health and Hygiene,Low Fat,20.11
+NCY27,Health and Hygiene,Low Fat,19.24
+NCY30,Health and Hygiene,Low Fat,13.02
+NCY34,Health and Hygiene,Low Fat,9.72
+NCY37,Household,Low Fat,15.24
+NCY52,Household,Low Fat,18.89
+NCY54,Household,Low Fat,13.66
+NCY77,Household,Low Fat,16.04
+NCY78,Household,Low Fat,18.56
+NCZ27,Household,Low Fat,14.6
+NCZ34,Health and Hygiene,Low Fat,8.49
+NCZ41,Household,Low Fat,18.97
+NCZ47,Health and Hygiene,Low Fat,10.19
+NCZ48,Household,Low Fat,11.71
+NCZ60,Household,Low Fat,13.43
+NCZ64,Health and Hygiene,Low Fat,5.76
+NCZ68,Health and Hygiene,Low Fat,12.22
+NCZ74,Household,Low Fat,13.31
+NCZ76,Household,Low Fat,15.03
+NCZ97,Household,Low Fat,11.68

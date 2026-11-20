@@ -1,0 +1,11 @@
+outlet_identifier,outlet_establishment_year,outlet_size,outlet_location_type,outlet_type,outlet_age
+OUT010,2014,Small,Tier 3,Grocery Store,12
+OUT013,2011,High,Tier 3,Supermarket Type1,15
+OUT017,2022,High,Tier 2,Supermarket Type1,4
+OUT018,2020,Medium,Tier 3,Supermarket Type2,6
+OUT019,2019,Small,Tier 1,Grocery Store,7
+OUT027,2012,Medium,Tier 3,Supermarket Type3,14
+OUT035,2018,Small,Tier 2,Supermarket Type1,8
+OUT045,2016,Medium,Tier 2,Supermarket Type1,10
+OUT046,2017,Small,Tier 1,Supermarket Type1,9
+OUT049,2015,Medium,Tier 1,Supermarket Type1,11
